@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/nateghsc09/react-directory/static/css/main.5d1a1003.chunk.css",
+    "main.js": "/nateghsc09/react-directory/static/js/main.4e41bb3a.chunk.js",
+    "main.js.map": "/nateghsc09/react-directory/static/js/main.4e41bb3a.chunk.js.map",
+    "runtime~main.js": "/nateghsc09/react-directory/static/js/runtime~main.3aba9cf3.js",
+    "runtime~main.js.map": "/nateghsc09/react-directory/static/js/runtime~main.3aba9cf3.js.map",
+    "static/css/2.fa6c921b.chunk.css": "/nateghsc09/react-directory/static/css/2.fa6c921b.chunk.css",
+    "static/js/2.d8e493c0.chunk.js": "/nateghsc09/react-directory/static/js/2.d8e493c0.chunk.js",
+    "static/js/2.d8e493c0.chunk.js.map": "/nateghsc09/react-directory/static/js/2.d8e493c0.chunk.js.map",
+    "index.html": "/nateghsc09/react-directory/index.html",
+    "precache-manifest.ffc54e8fb5ce755d25ecc6fa13f5f6b8.js": "/nateghsc09/react-directory/precache-manifest.ffc54e8fb5ce755d25ecc6fa13f5f6b8.js",
+    "service-worker.js": "/nateghsc09/react-directory/service-worker.js",
+    "static/css/2.fa6c921b.chunk.css.map": "/nateghsc09/react-directory/static/css/2.fa6c921b.chunk.css.map",
+    "static/css/main.5d1a1003.chunk.css.map": "/nateghsc09/react-directory/static/css/main.5d1a1003.chunk.css.map"
+  }
+}
