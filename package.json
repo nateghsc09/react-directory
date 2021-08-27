@@ -41,5 +41,6 @@
   "bugs": {
     "url": "https://github.com/nateghsc09/react-directory/issues"
   },
-  "homepage": "https://github.com/nateghsc09/react-directory#readme"
+  "homepage": "https://github.com/nateghsc09/react-directory#readme",
+  "devDependencies": {}
 }
